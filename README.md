@@ -1,0 +1,2 @@
+# Project_01-BlogCreate
+A few weeks back I started this amazing journey with FunctionUp. I was vulnerable if I will be able to do this knowing my past experiences and education. And today I stand at a point where I have completed my first ever project as a backend developer and I am glad to share that my code has passed all the test cases. This journey has made me realize that you are never too late to get started. Cheers to many more future endeavors !
